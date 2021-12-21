@@ -1,3 +1,5 @@
+//hi am aditya prata singh
+
 #include <stdio.h>
 
 int main()
