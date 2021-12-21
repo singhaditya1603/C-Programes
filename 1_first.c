@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf("Hello I am learning C with Mia Khalifa");
+    printf("Hello I am learning C with Aditya");
     return 0;
 }
